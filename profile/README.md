@@ -6,7 +6,7 @@
   
   <h1>UnfairLTD</h1>
 
-  <p>Welcome to the official GitHub Profile from the Unfair Hub </p>
+  <p>Welcome to the official Unfair LTD profile </p>
 
   <hr>
   
