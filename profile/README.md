@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/sgSxc0rx/Unbenannt.png" />
-  <img alt="Sirius Logo" width="700" src=""/>
+  <img alt="UnfairLTD Logo" width="700" src=""/>
   </picture>
   
   <h1>UnfairLTD</h1>
